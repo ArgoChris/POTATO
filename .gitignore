@@ -7,3 +7,7 @@ texHeaders.bin
 *.biprivatekey
 *.dll
 Thumbs.db
+
+releases/*
+keys/*
+hemtt.exe
